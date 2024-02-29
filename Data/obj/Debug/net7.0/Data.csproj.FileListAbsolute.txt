@@ -1,0 +1,15 @@
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\bin\Debug\net7.0\Data.deps.json
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\bin\Debug\net7.0\Data.dll
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\bin\Debug\net7.0\Data.pdb
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\bin\Debug\net7.0\Data.Models.dll
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\bin\Debug\net7.0\Data.Models.pdb
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\obj\Debug\net7.0\Data.dll
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\obj\Debug\net7.0\refint\Data.dll
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\obj\Debug\net7.0\Data.pdb
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\obj\Debug\net7.0\ref\Data.dll
+D:\ProjectsFromBooks\WebDevelopmentWithBlazor\MyBlog\Data\obj\Debug\net7.0\Data.csproj.Up2Date

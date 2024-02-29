@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jhe0Ddl3i7Y9VP/PhMdl8awAN86FCarZKJiWJa6Xp+4oPj9/vRa636kJuBBCzycb6FdNjO6/x1BK+t0E9/JaVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lauris\\Desktop\\MyBlog\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.extensions.options\\8.0.1\\microsoft.extensions.options.8.0.1.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

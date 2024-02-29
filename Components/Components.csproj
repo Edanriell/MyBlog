@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+
+	<ItemGroup>
+		<SupportedPlatform Include="browser" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Markdig" Version="0.34.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="7.0.15" />
+		<PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="7.0.1" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data.Models\Data.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\Admin\BlogPostEdit.razor" />
+    <None Include="Pages\Admin\BlogPostList.razor" />
+    <None Include="Pages\Admin\CategoryList.razor" />
+    <None Include="Pages\Admin\TagList.razor" />
+    <None Include="Pages\AlertTest.razor" />
+    <None Include="Pages\Counter.razor" />
+    <None Include="Pages\Index.razor" />
+    <None Include="Pages\Post.razor" />
+    <None Include="Pages\SetFocus.razor" />
+    <None Include="RazorComponents\Alert.razor" />
+    <None Include="RazorComponents\BlogNavigationLock.razor" />
+    <None Include="RazorComponents\ItemList.razor" />
+    <None Include="RazorComponents\LoginStatus.razor" />
+    <None Include="Shared\MainLayout.razor" />
+    <None Include="Shared\NavMenu.razor" />
+    <None Include="Shared\SurveyPrompt.razor" />
+  </ItemGroup>
+
+
+
+</Project>

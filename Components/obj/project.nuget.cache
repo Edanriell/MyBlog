@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVmA8cu/Ay+UsWJBnSzG3jaZoS7CSF3l0+HeI8WuGK57TQQ3MJ5WhPVAgGBToAAJV5trTMeDOhNQh4E895CI3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lauris\\Desktop\\MyBlog\\Components\\Components.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lauris\\.nuget\\packages\\markdig\\0.34.0\\markdig.0.34.0.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.15\\microsoft.aspnetcore.authorization.7.0.15.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.15\\microsoft.aspnetcore.components.7.0.15.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.15\\microsoft.aspnetcore.components.analyzers.7.0.15.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.15\\microsoft.aspnetcore.components.authorization.7.0.15.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.1\\microsoft.aspnetcore.components.forms.7.0.1.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.1\\microsoft.aspnetcore.components.web.7.0.1.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.15\\microsoft.aspnetcore.metadata.7.0.15.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\microsoft.jsinterop\\7.0.1\\microsoft.jsinterop.7.0.1.nupkg.sha512",
+    "C:\\Users\\Lauris\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
