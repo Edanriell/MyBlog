@@ -14,7 +14,7 @@ builder.Services
     .AddOptions<BlogApiJsonDirectAccessSetting>()
     .Configure(options =>
     {
-        options.DataPath = @"..\..\..\..\Data\";
+        options.DataPath = @"..\Data\";
         options.BlogPostsFolder = "Blogposts";
         options.TagsFolder = "Tags";
         options.CategoriesFolder = "Categories";
@@ -31,8 +31,8 @@ builder.Services
             c.TokenValidationParameters =
                 new Microsoft.IdentityModel.Tokens.TokenValidationParameters
                 {
-                    ValidAudience = builder.Configuration["Auth0:Audience"],
-                    ValidIssuer = builder.Configuration["Auth0:Authority"]
+                    ValidAudience = builder.Configuration["Auth0:Audience1"],
+                    ValidIssuer = builder.Configuration["Auth0:Authority1"]
                 };
         }
     );

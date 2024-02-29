@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "D:\\ProjectsFromBooks\\WebDevelopmentWithBlazor\\MyBlog\\Components\\Pages\\JSInteropSamples\\JSToReferenceNET.razor.js",
+      "Id": "C:\\Users\\Lauris\\Desktop\\MyBlog\\Components\\Pages\\JSInteropSamples\\JSToReferenceNET.razor.js",
       "PackagePath": "staticwebassets\\Pages\\JSInteropSamples\\JSToReferenceNET.razor.js"
     },
     {
-      "Id": "D:\\ProjectsFromBooks\\WebDevelopmentWithBlazor\\MyBlog\\Components\\Pages\\JSInteropSamples\\JSToStaticNET.razor.js",
+      "Id": "C:\\Users\\Lauris\\Desktop\\MyBlog\\Components\\Pages\\JSInteropSamples\\JSToStaticNET.razor.js",
       "PackagePath": "staticwebassets\\Pages\\JSInteropSamples\\JSToStaticNET.razor.js"
     },
     {
-      "Id": "D:\\ProjectsFromBooks\\WebDevelopmentWithBlazor\\MyBlog\\Components\\Pages\\JSInteropSamples\\NetToJS.razor.js",
+      "Id": "C:\\Users\\Lauris\\Desktop\\MyBlog\\Components\\Pages\\JSInteropSamples\\NetToJS.razor.js",
       "PackagePath": "staticwebassets\\Pages\\JSInteropSamples\\NetToJS.razor.js"
     },
     {
-      "Id": "D:\\ProjectsFromBooks\\WebDevelopmentWithBlazor\\MyBlog\\Components\\RazorComponents\\HighChart.razor.js",
+      "Id": "C:\\Users\\Lauris\\Desktop\\MyBlog\\Components\\RazorComponents\\HighChart.razor.js",
       "PackagePath": "staticwebassets\\RazorComponents\\HighChart.razor.js"
     },
     {
-      "Id": "D:\\ProjectsFromBooks\\WebDevelopmentWithBlazor\\MyBlog\\Components\\RazorComponents\\ItemList.razor.js",
+      "Id": "C:\\Users\\Lauris\\Desktop\\MyBlog\\Components\\RazorComponents\\ItemList.razor.js",
       "PackagePath": "staticwebassets\\RazorComponents\\ItemList.razor.js"
     },
     {
-      "Id": "D:\\ProjectsFromBooks\\WebDevelopmentWithBlazor\\MyBlog\\Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Components.bundle.scp.css",
+      "Id": "C:\\Users\\Lauris\\Desktop\\MyBlog\\Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Components.bundle.scp.css",
       "PackagePath": "staticwebassets\\Components.bundle.scp.css"
     },
     {
-      "Id": "D:\\ProjectsFromBooks\\WebDevelopmentWithBlazor\\MyBlog\\Components\\wwwroot\\background.png",
+      "Id": "C:\\Users\\Lauris\\Desktop\\MyBlog\\Components\\wwwroot\\background.png",
       "PackagePath": "staticwebassets\\background.png"
     },
     {
-      "Id": "D:\\ProjectsFromBooks\\WebDevelopmentWithBlazor\\MyBlog\\Components\\wwwroot\\bootstrap.min.css",
+      "Id": "C:\\Users\\Lauris\\Desktop\\MyBlog\\Components\\wwwroot\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\ProjectsFromBooks\\WebDevelopmentWithBlazor\\MyBlog\\Components\\wwwroot\\exampleJsInterop.js",
+      "Id": "C:\\Users\\Lauris\\Desktop\\MyBlog\\Components\\wwwroot\\exampleJsInterop.js",
       "PackagePath": "staticwebassets\\exampleJsInterop.js"
     },
     {

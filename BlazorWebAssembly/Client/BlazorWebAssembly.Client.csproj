@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <ServiceWorkerAssetsManifest>service-worker-assets.js</ServiceWorkerAssetsManifest>
 	<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+	<UserSecretsId>33828ddd-7e0b-4357-adb4-964edb416e88</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
